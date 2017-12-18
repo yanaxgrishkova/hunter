@@ -12,7 +12,7 @@ hunter_add_version(
     URL
     "https://github.com/yanaxgrishkova/stack/archive/v1.2.tar.gz"
     SHA1
-    c08dc366a403d1b28943d846e3c80cecd852d40d
+    55cc7aa7f2ec86b2764b945829feb4a588e250e7
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
