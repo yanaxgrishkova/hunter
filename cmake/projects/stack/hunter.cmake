@@ -6,11 +6,11 @@ include(hunter_pick_scheme)
 
 hunter_add_version(
     PACKAGE_NAME
-    stack_05
+    stack
     VERSION
-    "1.1"
+    "1.2"
     URL
-    "https://github.com/yanaxgrishkova/stack/archive/v1.1.tar.gz"
+    "https://github.com/yanaxgrishkova/stack/archive/v1.2.tar.gz"
     SHA1
     c08dc366a403d1b28943d846e3c80cecd852d40d
 )
