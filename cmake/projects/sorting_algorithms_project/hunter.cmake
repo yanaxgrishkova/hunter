@@ -12,7 +12,7 @@ hunter_add_version(
     URL
     "https://github.com/yanaxgrishkova/sorting_algorithms_project/archive/v1.0.tar.gz"
     SHA1
-    29e1a50f960ffb13f81f699b4c378737766789d7
+    3c63df810ab6c394e35991196e225fe5caa1e68d
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
